@@ -5,7 +5,7 @@ https://www.arccompute.io/
 - https://www.arccompute.io/products/hyperborea
 - https://www.arccompute.io/products/libvf-io
 
-## Article:
+## Guide:
 https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/
 
 Discussion:
