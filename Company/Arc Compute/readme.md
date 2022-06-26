@@ -4,11 +4,14 @@ https://www.arccompute.io/
 ## about:
 https://www.arccompute.io/why-arc/our-story
 
-## Product:
+## social:
+https://twitter.com/arcvrarthur
+
+## product:
 - https://www.arccompute.io/products/hyperborea
 - https://www.arccompute.io/products/libvf-io
 
-## Guide:
+## guide:
 https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/
 
 Discussion:
