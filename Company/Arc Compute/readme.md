@@ -7,6 +7,9 @@ https://www.arccompute.io/why-arc/our-story
 ## social:
 https://twitter.com/arcvrarthur
 
+## blog:
+https://arccompute.com/blog/
+
 ## product:
 - https://www.arccompute.io/products/hyperborea
 - https://www.arccompute.io/products/libvf-io
