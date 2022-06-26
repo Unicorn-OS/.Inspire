@@ -8,7 +8,8 @@ https://www.arccompute.io/
 https://www.arccompute.io/why-arc/our-story
 
 ## social:
-https://twitter.com/arcvrarthur
+- https://twitter.com/arcvrarthur,
+- https://www.youtube.com/c/ArcCompute
 
 ## blog:
 https://arccompute.com/blog/
