@@ -1,4 +1,7 @@
-# Company: 
+# Company: Arc Compute
+me: This is a TOP Ally! :-)
+
+## home:
 https://www.arccompute.io/
 
 ## about:
@@ -19,3 +22,6 @@ https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/
 
 Discussion:
 - https://news.ycombinator.com/item?id=28944426
+
+## financing:
+https://arccompute.com/blog/investment-opn-supporters-fund/
