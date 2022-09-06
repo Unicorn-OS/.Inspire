@@ -7,3 +7,4 @@ video:
 - [Are Desktop Environments And Window Managers Really So Different?](https://youtu.be/C5l5IxEsASE)
 - [Linus Tech Tips Is Mostly Right About Linux](https://youtu.be/y6Xs23lvmX4)
 - [What Desktop Linux Needs To Succeed In The Mainstream](https://youtu.be/utUKn3iSQyM)
+- [Linus Is Right About Linux Gaming... For Now](https://youtu.be/HeJosuGLq0c)
