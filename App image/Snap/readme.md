@@ -1,1 +1,2 @@
-[Do Ubuntu's Snap Deserve So Much Negativity?](https://youtu.be/GfYjZxZ33X8)
+- [Do Ubuntu's Snap Deserve So Much Negativity?](https://youtu.be/GfYjZxZ33X8)
+- [Snap: Linux's Most Controversial Universal Packaging System](https://youtu.be/opGdJeNCacY)
