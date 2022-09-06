@@ -1,0 +1,3 @@
+- https://www.youtube.com/watch?v=0yFys_q1Wx8&lc=UgxzBTbHztBJZ85CV3d4AaABAg&ab_channel=BrodieRobertson
+>"King Zero
+>it is important to have your setup automated tho so you can quickly spin up again in the worst situation or just if you get a new machine... i use ansible for that... and at that point it's worth it having a replicable setup across multiple distros in case the one you're on starts making questionable decisions (canonical in bed with m$oft and google, red hat screwing centos users, etc)... i can spin up basically equivalent environments on like 7 different distros in under 20 minutes on a new machine and have my personal environment back up and running just like nothing ever happened"
