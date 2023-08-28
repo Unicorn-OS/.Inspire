@@ -1,5 +1,5 @@
 # Home:
 https://universal-blue.org/
 
-# Architecture Diagram
+# Architecture
 https://universal-blue.org/architecture/
