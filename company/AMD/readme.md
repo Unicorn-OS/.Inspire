@@ -1,0 +1,1 @@
+- [Adventures at AMD: AMD and the Linux Kernel](https://youtu.be/M2igdCDgA8o)
