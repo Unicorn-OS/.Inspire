@@ -1,0 +1,1 @@
+- [The Hardest Thing: Building and Running the UNIX Kernel from Original Sources](https://youtu.be/IBFeM-sa2YY)
