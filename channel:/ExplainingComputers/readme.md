@@ -1,2 +1,4 @@
 - [The 7 Desktop OS I Run Every Week (& why!)](https://youtu.be/6iimFH68AE8)
 - [FydeOS: ChromiumOS with Android, Linux & no Google!](https://youtu.be/S0V6ib9VldE)
+- [Rocky Linux -- with DaVinci Resolve Install](https://youtu.be/BS9ghuQSN9M)
+- [Switching to Linux: Drives & Partitions](https://youtu.be/tFGAWbDy98Q)
